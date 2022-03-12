@@ -1,0 +1,76 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/* Utilty Classes*/
+
+.img-responsive {
+  max-width: 100%;
+}
+
+.banner_image {
+	background: url(heroimage.jpg) no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+}
+
+.wrapper {
+	color:white;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.wrapper h1 {
+	font-size: 2.4rem;
+	text-align: center;
+}
+
+
+
+form.startbtn {
+	text-align: center;
+}
+
+
+
+form.startbtn a {
+	width: 40%;
+	text-align: center;
+	background-color: #00bab1;
+	color: white;
+	padding: .6rem;
+	margin:1rem auto 0rem;
+	border: none;
+	border-radius: .3rem;
+}
+
+h1.Ephesis{
+	font-family: 'Tangerine', serif;
+	font-size: 4.9rem;
+}
+
+p.Welcome {
+	font-weight: 600;
+	font-family: Scheherazade;
+}
+
+a.btn {
+	text-decoration: none;
+	color: white;
+}
+
+a.btn:hover {
+	cursor: pointer;
+}
+
+.navbar-brand {
+	color: rgb(121, 17, 190);
+}
+
+.navbar-light .navbar-brand {
+    color:rgb(121, 17, 190);
+}
