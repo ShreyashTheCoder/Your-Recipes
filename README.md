@@ -9,5 +9,7 @@ Its Highlights :
   4. If you want me to customise it and pay me. Contact me at "shreyash.m.2502@outlook.com"
   5. note: In sending the mail above the subject should be repo name.
  
-Thankyou.
-Shreyash 
+Thanking you for visiting me.
+Shreyash Mishra
+
+I Love Commits and Issues. Feel free to commit. 
